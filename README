@@ -4,4 +4,13 @@ How to install this plugin:
 
 #2: Add "deinemutter" into plugins.conf
 
-DONE  
+DONE
+
+
+So installieren Sie dieses Plugin: 
+
+# 1: Laden Sie den "deinemutter" ordner in /plugins/ von SiriServerCore. 
+
+# 2: Fügen Sie "deinemutter" in plugins.conf ein
+
+FERTIG
