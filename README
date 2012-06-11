@@ -1,0 +1,7 @@
+How to install this plugin:
+
+#1: Upload the "deinemutter" folder into /plugins/ dir of SiriServerCore.
+
+#2: Add "deinemutter" into plugins.conf
+
+DONE  
