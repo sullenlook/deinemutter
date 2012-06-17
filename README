@@ -1,15 +1,10 @@
-How to install this plugin:
+DEINEMUTTER PLUGIN IN DEUTSCH
 
-#1: Upload the "deinemutter" folder into /plugins/ dir of SiriServerCore.
+Sag einfach "Deine Mutter" und Siri antwortet mit einem von 79 DeineMutter Sprüchen.
 
-#2: Add "deinemutter" into plugins.conf
+So installierst Du dieses Plugin: 
 
-DONE
-
-
-So installieren Sie dieses Plugin: 
-
-# 1: Laden Sie den "deinemutter" ordner in /plugins/ von SiriServerCore. 
+# 1: Lade den "deinemutter" ordner in ~/SiriServerCore/plugins/ 
 
 # 2: Fügen Sie "deinemutter" in plugins.conf ein
 
